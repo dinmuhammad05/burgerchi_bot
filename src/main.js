@@ -13,6 +13,8 @@ const burgerNarxlari = {
     double: 50000,
     chicken: 45000,
 };
+// slallallladsfaslfmoasmodkl
+
 
 // /start buyrug'i
 bot.start((ctx) => {
