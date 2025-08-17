@@ -1,0 +1,49 @@
+[
+  {
+    "userId": 7638987613,
+    "items": [
+      {
+        "type": "chicken",
+        "price": 45000
+      },
+      {
+        "type": "cheese",
+        "price": 40000
+      },
+      {
+        "type": "double",
+        "price": 50000
+      },
+      {
+        "type": "cheese",
+        "price": 40000
+      }
+    ]
+  },
+  {
+    "userId": 6797825387,
+    "items": [
+      {
+        "type": "chicken",
+        "price": 45000
+      }
+    ]
+  },
+  {
+    "userId": 1280365472,
+    "items": [
+      {
+        "type": "double",
+        "price": 50000
+      },
+      {
+        "type": "cheese",
+        "price": 40000
+      },
+      {
+        "type": "chicken",
+        "price": 45000
+      }
+    ]
+  }
+]
